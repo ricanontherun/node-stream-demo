@@ -1,2 +1,2 @@
 # node-stream-demo
-A small app which can demo used to learn video streaming with NodeJS,
+A small app used to learn video streaming with NodeJS,
